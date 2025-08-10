@@ -12,6 +12,22 @@ OpenXOPS project is remake the X operations, and to open source.
 
 X operations is free FPS(First-person shooter) game. Development in the 2003 by team MITEI.
 
+## Development environment
+
+- Programming language : C/C++
+- IDE: Microsoft Visual Studio 2019
+- Add SDK: Microsoft DirectX SDK (June 2010)
+- DirectX Version: 9.0c
+- OpenGL Version: 1.1 (Not use shader)
+- 3D/2D Graphics: DirectX or OpenGL
+- Input: WindowsAPI or DirectInput
+- Sound: ezds.dll or DirectSound
+- File: C standard library (stdio.h)
+- Physics engine: Original
+- AI engine: Original
+
+Game engine is not used.
+
 ## License
 
 OpenXOPS is New BSD License. Copyright of the project is in the [-_-;](mikan).
